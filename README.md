@@ -4,6 +4,7 @@ Project Overview
 This project aims to create a state-of-the-art application dedicated to predicting house prices.
 By harnessing the power of advanced data science techniques, our goal is to provide users with accurate and reliable insights into the dynamic real estate market. 
 
+
 Importance
 Accurate house price predictions play a pivotal role in navigating the complexities of the real estate market.
 As property values fluctuate based on various factors, having a tool that can forecast these changes empowers
