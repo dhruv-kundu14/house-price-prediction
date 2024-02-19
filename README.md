@@ -63,7 +63,7 @@ Responsive Design: The interface is designed to be responsive across various dev
 ![image](https://github.com/dhruv-kundu14/house-price-prediction/assets/81622271/5c2b6b3f-9521-4c07-aae4-4967a071cb74)
 ![image](https://github.com/dhruv-kundu14/house-price-prediction/assets/81622271/dfebf555-172c-4153-b806-74b4cdc42f6f)
 ![image](https://github.com/dhruv-kundu14/house-price-prediction/assets/81622271/7693299a-c32a-4594-aa6a-7282ce876f88)
-![image](https://github.com/dhruv-kundu14/house-price-prediction/assets/81622271/56e0f0dd-c45d-43c1-9733-d8ef708a43fb)
+
 ![image](https://github.com/dhruv-kundu14/house-price-prediction/assets/81622271/60dcfaff-5eb6-4384-bbfb-ab2da0d19f5b)
 
 #Conclusion
